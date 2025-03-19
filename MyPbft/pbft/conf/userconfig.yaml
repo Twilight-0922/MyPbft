@@ -1,0 +1,28 @@
+threshold: 4
+ip: 10.25.9.8
+port: 9051
+idx: 1
+fftMaxScale: 2
+parties:
+  - ip: 10.25.9.8
+    port: 9051
+    partyIdx: 1
+  - ip: 10.25.9.8
+    port: 9052
+    partyIdx: 2
+  - ip: 10.25.9.8
+    port: 9053
+    partyIdx: 3
+  - ip: 10.25.9.8
+    port: 9054
+    partyIdx: 4
+  - ip: 10.25.9.8
+    port: 9055
+    partyIdx: 5
+  - ip: 10.25.9.8
+    port: 9056
+    partyIdx: 6
+  - ip: 10.25.9.8
+    port: 9057
+    partyIdx: 7
+protocol: 2

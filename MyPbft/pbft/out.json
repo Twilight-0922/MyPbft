@@ -1,0 +1,143 @@
+{
+  "agent": "10.25.9.11:8881",
+  "datatype": "metadata",
+  "timestamp": "1691120573",
+  "digest": "89aa31812171fd726a38ac3d7743ae03",
+  "signature": {
+    "U": "A7eM7qKS3ftbA5V9qjCIk+07XD8n97h/F/W7B1uqqSFq1pPqW2mAFjiBWdrLVsYVDCMNC27oJ4vIeioEwOUVsjggrcdfMe/QKLtzHdhyL59tPdDdMQ+VPP2TPShF32jfDeHLZLZaW/OQ0Yabelmxk9ZSUCD6XISbXA42HjObswk2nl17zFK19XqXTp/A6G65BM16ixlvbY2G59CDKwo4rta046Jszbh69mok5KRw/UGiasW53+zvP+KhhZhaiXQz",
+    "V": "PB6nrhw0IWYUqtTYAn2yAYtQkmHuCzZpB+3OMBqxSNY="
+  },
+  "data": {
+    "nodeid": "12D3KooWNJXEVQ4yotd41Z6y3m19yf68jyt1ToorqNQUBecVp2VF",
+    "filename": "xyd",
+    "filetype": "pdf",
+    "senter": "10001",
+    "reciver": "10002",
+    "datasize": 1363770,
+    "datahash": "79c98c1c42a1841705bbb4c450e386c5e27ff52097436afc073db169f9d79353",
+    "store node": {
+      "xyd_1": [
+        "10.25.9.2:5001",
+        "10.25.9.11:5001",
+        "10.25.9.4:5001",
+        "10.25.9.1:5001",
+        "10.25.9.6:5001",
+        "10.25.9.3:5001",
+        "10.25.9.13:5001",
+        "10.25.9.8:5001"
+      ],
+      "xyd_2": [
+        "10.25.9.6:5001",
+        "10.25.9.7:5001",
+        "10.25.9.2:5001",
+        "10.25.9.13:5001",
+        "10.25.9.14:5001",
+        "10.25.9.4:5001",
+        "10.25.9.12:5001",
+        "10.25.9.3:5001"
+      ],
+      "xyd_3": [
+        "10.25.9.12:5001",
+        "10.25.9.13:5001",
+        "10.25.9.6:5001",
+        "10.25.9.3:5001",
+        "10.25.9.14:5001",
+        "10.25.9.1:5001",
+        "10.25.9.11:5001",
+        "10.25.9.7:5001"
+      ],
+      "xyd_4": [
+        "10.25.9.6:5001",
+        "10.25.9.4:5001",
+        "10.25.9.13:5001",
+        "10.25.9.11:5001",
+        "10.25.9.1:5001",
+        "10.25.9.7:5001",
+        "10.25.9.12:5001",
+        "10.25.9.3:5001"
+      ],
+      "xyd_5": [
+        "10.25.9.13:5001",
+        "10.25.9.14:5001",
+        "10.25.9.1:5001",
+        "10.25.9.11:5001",
+        "10.25.9.4:5001",
+        "10.25.9.12:5001",
+        "10.25.9.2:5001",
+        "10.25.9.3:5001"
+      ],
+      "xyd_6": [
+        "10.25.9.4:5001",
+        "10.25.9.5:5001",
+        "10.25.9.13:5001",
+        "10.25.9.3:5001",
+        "10.25.9.12:5001",
+        "10.25.9.1:5001",
+        "10.25.9.8:5001",
+        "10.25.9.2:5001"
+      ]
+    },
+    "blockindex": {
+      "xyd_1": {
+        "xyd_1_0": "QmeQkJewA5heUe7Q7NzUys9VBPthXswvpxQwYj1QaDpYk2",
+        "xyd_1_1": "QmUbxaoQ7xWm3z2goBUBeRyVHTYPnF6m33eufcEGimYLGY",
+        "xyd_1_2": "QmZDyv2YAcw9mGFFG2hp78kix8orYUgTRtsUVx8RtcGoW2",
+        "xyd_1_3": "QmWpkHaaSG4qfrMFUB8HqxDm8LZx5z9w4fSupHtqNTJnoY",
+        "xyd_1_4": "QmPG3XT3kVLjQLHXHvv2EjDHPJ7W4nB9DuuNn9PzxjnUoa",
+        "xyd_1_5": "QmZJCEPwNzVfpNN7M2MXWNE6znWppEt7hAz93YdgA6ZnNY",
+        "xyd_1_6": "QmPSwg91Z4EgJGVuAbt5p3cUSZYJtpEz3jgT1ZrE1aHqJ5",
+        "xyd_1_7": "QmXhRqEJHMgD5VCf3Y7s7DyqaPG2PK7gQHvV9Q3XKCDjYm"
+      },
+      "xyd_2": {
+        "xyd_2_0": "QmXjoH9dyXGrZiUPzdDa4xxRpzcxCyXGfKZs9oqofH1YBQ",
+        "xyd_2_1": "QmTwCy4qkB3AQMqjcNs1ozxWwtn2egQN5Mws8bGjyGFTTb",
+        "xyd_2_2": "QmbkbTPGc7ca3NVfoaMEeoShkJAmX9MQnyN86SZo6G7ZF2",
+        "xyd_2_3": "QmP8hC6RBLmCqZgfHM3Qu5h9bk9Cu2ker5juXzGHhQnRVs",
+        "xyd_2_4": "QmPU8XDJd3V9yESNRGx79v3Cfk8Ws9ert8Cb9WfiM6fbbR",
+        "xyd_2_5": "QmdvpJuy3tJ66URSHzRw2rtMN4Zg7NVHMUpw7KdoHv3mP8",
+        "xyd_2_6": "QmNtMyPNSChDiBiuxKWUjWfamkt1k5KVxixj9o35Nnmk19",
+        "xyd_2_7": "QmRyg9rPkzJnRDs55PwQYMTYsL34NqwNgzU246Vzen1tDx"
+      },
+      "xyd_3": {
+        "xyd_3_0": "QmUxR8pk9W1awBQYkYU2eUrrKVBCQA7hTQhkwuHrrAEhNp",
+        "xyd_3_1": "QmQrWeUxYZoxqEYnQkE9uZoZsen6fQXEBvj1pPctV1aYwy",
+        "xyd_3_2": "QmUPntW41TRx8qnznumDm1qeYBSbCokxDHDu4m2yqUie25",
+        "xyd_3_3": "Qmcaehf3Uk5HTEaB9n8ADxTfRWSeZo6tHMJfokqQz4XP2S",
+        "xyd_3_4": "QmXUULLQBCJUYzzFVDK9WNi9Nrhev1eckZVeJe4oQHXj5f",
+        "xyd_3_5": "QmYFmqkM7AAKEVrqvm2HnFYumErXSGN7TX2z7K5KtZKLq4",
+        "xyd_3_6": "QmUo9HhhUWqpD3iHjTdiousGmJn5DCD2coiEwug4xnhn5h",
+        "xyd_3_7": "QmYQj8EVoEtBnnhSsweJuqEgPgiXVVmGeenvjPCgT4w2iZ"
+      },
+      "xyd_4": {
+        "xyd_4_0": "QmaQQTa6WUZAwQiqPu5K4AymTQ4gLURNF2wEjaVc4sLQuu",
+        "xyd_4_1": "QmVxEcykD4GZitqn8Au8kqagsp8P3UW3qx1VHPV4DLBKFq",
+        "xyd_4_2": "Qma8eM7p3HzQJncjR3P4E8EZTkfvPD7ANz2GnqPJLP7b6L",
+        "xyd_4_3": "QmYW1bBLtVqzFF94XSJoJkQdKZwtTxVimZdoaiW5zPsoA4",
+        "xyd_4_4": "Qmes4YoBtCtjnrgfqtZXXJ2qxGg3UeuNoJBYqnGeHZvMs7",
+        "xyd_4_5": "QmYWz7FN2DTDLYMwaaQzhf1mEnUEWX6yfHHguWaqUG1iCp",
+        "xyd_4_6": "QmVSE51p5wpjarm326sJnxWHYGygxRecpm1BJbmWKXsihq",
+        "xyd_4_7": "QmXgdPpBHa3avqN1xe39F34Cw91hxrm8aCD4FqP5YJrpDM"
+      },
+      "xyd_5": {
+        "xyd_5_0": "QmUTGttUzuo1css6njDoQbLrsNNm42M9jetVCSw3Cnni69",
+        "xyd_5_1": "QmdoPNGNR4Ekq6reJb5T38EwoikzN4poevKyGAGn5C2vAj",
+        "xyd_5_2": "Qmav7Vi75RM6fK8FoN2iDKpc7QP8qjj5bJ83JzFTS2eSUF",
+        "xyd_5_3": "QmfF5R4bdRBD3tobvV66MJVgeqFjR94vH6Bo8sTaZjYd1B",
+        "xyd_5_4": "QmWucgQsajfiTCofjvDEVt2NyjyvkTpteBgMKYW1Q3LVPT",
+        "xyd_5_5": "QmXsiCcKrDfvn9jdQ3mxRmdJiHh7cvgvC6WAwk8uStroF8",
+        "xyd_5_6": "QmTBJo7TZKjibHoGBSRYrXU5nM8BFAizsz5zBUQ1x46AEj",
+        "xyd_5_7": "Qmbbzmy3osveaj87v5SpHwon7x8V73MHPyUGK5eHoDj4jS"
+      },
+      "xyd_6": {
+        "xyd_6_0": "QmPB3cSWcDbRG5j74XmgQMHM7ic5u3Sv54zHeWrV6nqYg4",
+        "xyd_6_1": "QmNuL71DPPJWxsnfYxHhD86rag6m96obPgoyV5o2CG6nCV",
+        "xyd_6_2": "QmToGmpAtevTNf8Qz5QdSdUNwnLYyPEaV46DQBrRSX52mb",
+        "xyd_6_3": "QmZrAFHPJkC5TCUG7RNnwJj3sjdDqbvpSLwXBmaNxBxEW2",
+        "xyd_6_4": "QmWXxLmDpMLL6Q85UDi6sqgiX3gL4NDEehTRKkYttsD9oc",
+        "xyd_6_5": "QmRqzkA16cy341HBsokKpidSDiiRFGvoRxwab4DXHhQsPa",
+        "xyd_6_6": "QmWss3LWuURA8nvR18A8rPpyvwR14eMYeCdAiWwUigYX61",
+        "xyd_6_7": "QmW7P4fmUv7ESQX8yAnKtAPeg7cEgZRvQpWNxssVSxf5ET"
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+threshold: 3
+ip: "10.25.2.113"
+port: 8001
+parties:
+  - ip: "10.25.9.11"
+    port: 7001
+    partyIdx: 1
+  - ip: "10.25.9.11"
+    port: 7002
+    partyIdx: 2
+  - ip: "10.25.9.11"
+    port: 7003
+    partyIdx: 3
+  - ip: "10.25.9.11"
+    port: 7004
+    partyIdx: 4
+  - ip: "10.25.9.11"
+    port: 7005
+    partyIdx: 5
+
+fftMaxScale: 3

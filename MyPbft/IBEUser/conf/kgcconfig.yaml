@@ -1,0 +1,20 @@
+threshold: 3
+ip: "localhost"
+port: 7001
+idx: 1
+parties:
+  - ip: "localhost"
+    port: 7001
+    partyIdx: 1
+  - ip: "localhost"
+    port: 7002
+    partyIdx: 2
+  - ip: "localhost"
+    port: 7003
+    partyIdx: 3
+  - ip: "localhost"
+    port: 7004
+    partyIdx: 4
+  - ip: "localhost"
+    port: 7005
+    partyIdx: 5
